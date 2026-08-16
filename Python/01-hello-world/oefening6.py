@@ -1,2 +1,1 @@
-print('Dit bericht bevat onjuiste aanhalingstekens!")
-print(quoteless)
+print('Dit bericht bevat nu de juiste aanhalingstekens!')
