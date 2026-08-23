@@ -1,9 +1,10 @@
-my_list = []
-new_list = []
+mijn_lijst = []
 
-def odd_indices(my_list):
-    for index in range (1, len(my_list), 2):
-        new_list.append(my_list[index])
-    return new_list
 
-print(odd_indices([4, 3, 7, 10, 11, -2]))
+def oneven_indices(mijn_lijst):
+    nieuwe_list = []
+    for index in range (1, len(mijn_lijst), 2):
+        nieuwe_list.append(mijn_lijst[index])
+    return nieuwe_list
+
+print(oneven_indices([4, 3, 7, 10, 11, -2]))
