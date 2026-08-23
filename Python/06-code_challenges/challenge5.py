@@ -1,5 +1,6 @@
 def deelbaar_door_10(num):
     if num % 10 == 0:
+# Het kan ook op deze manier: if (num % 10 == 0):
         return True
     else:
         return False
