@@ -1,7 +1,7 @@
-def introduction(first_name, last_name):
-    return last_name + ', ' + first_name + ' ' + last_name
+def introductie(voornaam, achternaam):
+    return achternaam + ', ' + voornaam + ' ' + achternaam
 
-print(introduction("Kawa", "Berxwedan"))
-print(introduction("Jiyan", "Şêrko"))
-print(introduction("Agrîn", "Welat"))
-print(introduction("Ronî", "Çîya"))
+print(introductie("Kawa", "Berxwedan"))
+print(introductie("Jiyan", "Şêrko"))
+print(introductie("Agrîn", "Welat"))
+print(introductie("Ronî", "Çîya"))
