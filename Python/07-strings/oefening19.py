@@ -1,6 +1,6 @@
 toomer_bio = \
 """
-Nathan Pinchback Tomer, who adopted the name Jean Tomer early in his literary career, was born in Washington, D.C. in 1894. Jean is the son of Nathan Tomer was a mixed-race freedman, born into slavery in 1839 in Chatham County, North Carolina. Jean Tomer is most well known for his first book Cane, which vividly portrays the life of African-Americans in southern farmlands.
+Nathan Pinchback Tomer, die aan het begin van zijn literaire carrière de naam Jean Tomer aannam, werd geboren in Washington D.C. in 1894. Jean is de zoon van Nathan Tomer, een vrijgelaten slaaf van gemengde afkomst, geboren in 1839 in Chatham County, North Carolina. Jean Tomer is vooral bekend om zijn eerste boek, Cane, dat een levendig beeld schetst van het leven van Afro-Amerikanen op het platteland in het zuiden van de Verenigde Staten.
 """
 
 toomer_bio_gecorrigeerd = toomer_bio.replace("Tomer", "Toomer")
