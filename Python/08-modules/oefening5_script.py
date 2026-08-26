@@ -1,0 +1,1 @@
+from oefening5_bibliotheek import altijd_drie
